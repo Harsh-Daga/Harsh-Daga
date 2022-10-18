@@ -1,5 +1,5 @@
-# 💫 About Me:
--👋 Hi, I’m @Harsh-Daga<br>- 👀 I’m interested in Website Development and Cybersecurity ...<br>- 🌱 I’m currently learning ruby on rails...<br>- 💞️ I’m looking to collaborate on exiciting projects ...<br>
+## Hey 👋, I'm Harsh Daga!  
+- 👀 I’m interested in Website Development and Cybersecurity ...<br>- 🌱 I’m currently learning ruby on rails...<br>- 💞️ I’m looking to collaborate on exiciting projects ...<br>
 
 
 ## 🌐 Socials:
