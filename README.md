@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
 ## Hey 👋, I'm Harsh Daga!  
 -👀 I’m interested in Website Development and Cybersecurity ...<br>- 🌱 I’m currently learning ruby on rails...<br>- 💞️ I’m looking to collaborate on exiciting projects ...<br>
 
