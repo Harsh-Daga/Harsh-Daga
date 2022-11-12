@@ -19,11 +19,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Daga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Github Activity's
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
