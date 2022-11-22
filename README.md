@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi , I'm Harsh Daga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science+Student;Front+End+Web+Developer|%20DevOps%20Enthusiast;CyberSecurity%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer|%20DevOps%20Enthusiast;CyberSecurity%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <p align="center">I am persuing Information Science and Engineering at <a href="https://www.bmsce.ac.in/" target="_blank"> BMSCE, Basavanagaudi</a>. I'm a self taught developer who loves learning about new technologies. I am currently learning Ruby on Rails and Devops. Apart from development, I love reading Books, watching Movies and learning new things. I'm a driven hard-working student, and what makes me who I am is my eagerness to learn new things.</p>
 <br>
