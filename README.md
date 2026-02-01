@@ -2,7 +2,7 @@
 
 ## Hey, I'm Harsh 👋
 
-Cloud Engineer at [Sprinklr](https://www.sprinklr.com/) building CPaaS infrastructure that handles 1M+ daily calls.
+Cloud Engineer, building CPaaS infrastructure that handles 1M+ daily calls.
 
 I like building things that scale, automating the boring stuff, and occasionally breaking prod to learn something new.
 
