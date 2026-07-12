@@ -1,0 +1,72 @@
+# Declarative source of truth for this profile.
+# Run: python3 generate.py
+operator:
+  name: Harsh Daga
+  role: Cloud Infrastructure Engineer
+  domain: Multi-cloud CPaaS infrastructure
+  production: 10+ regions · 1M+ calls/day · 99.9% availability
+  principle: boring systems, explicit failure modes
+  email: hs108699@gmail.com
+
+links:
+  portfolio: https://harshdaga.vercel.app
+  linkedin: https://linkedin.com/in/harsh-daga2003
+  writing: https://medium.com/@harshdaga18
+  x: https://x.com/harshsdaga
+  resume: https://harshdaga.vercel.app/resume
+
+principles:
+  - boring technology
+  - visible failure
+  - reproducible systems
+  - local-first design
+  - narrow responsibility
+
+system_model:
+  - provision     Terraform · Terragrunt · Ansible
+  - reconcile     Kubernetes · Helm · Argo CD
+  - observe       Prometheus · Grafana · ELK · Thanos
+  - communicate   SIP · RTP · distributed networking
+  - experiment    agent observability · LLM transport · incident automation
+
+systems:
+  - name: Cairn
+    slug: cairn
+    class: agent observability
+    objective: make agent behavior explainable
+    mechanism: traces → fingerprints → outcomes → improvement
+    properties: local-first · measurable · reproducible
+    repository: Harsh-Daga/Cairn
+    state: active
+  - name: Lattice
+    slug: lattice
+    class: LLM transport
+    objective: reduce provider and token inefficiency
+    mechanism: compression → cache → framing → flow control
+    properties: provider-neutral · protocol-oriented
+    repository: Harsh-Daga/Lattice
+    state: active
+  - name: IncidentScribe
+    slug: incidentscribe
+    class: incident automation
+    objective: remove low-judgment on-call toil
+    mechanism: detection → triage → timeline → postmortem
+    properties: human escalation · explicit handoffs
+    repository: Harsh-Daga/Incident-Scribe
+    state: active
+  - name: Catalyst
+    slug: catalyst
+    class: event intelligence
+    objective: surface signal from noisy public events
+    mechanism: ingest → extract → evaluate → alert
+    properties: evidence-oriented · infrastructure-minded
+    repository: Harsh-Daga/Catalyst-Detector
+    state: active
+
+operator_log:
+  quarter: 2026 Q3
+  entries:
+    - Operating regional telephony infrastructure across AWS, Azure, and GCP.
+    - Building causal observability for coding agents through Cairn.
+    - Exploring protocol-level efficiency for LLM traffic through Lattice.
+    - Writing down failure modes usually discovered only during incidents.

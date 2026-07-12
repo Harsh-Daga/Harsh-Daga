@@ -1,0 +1,33 @@
+{
+  "latest_writing": {
+    "title": "Your GPU Is a Kitchen With One Tiny Door",
+    "url": "https://medium.com/@harshdaga18/your-gpu-is-a-kitchen-with-one-tiny-door-479cf0b92088?source=rss-b04833cbf645------2"
+  },
+  "recent_changes": [
+    {
+      "date": "2026-07-11",
+      "message": "readme images fix",
+      "system": "Cairn",
+      "url": "https://github.com/Harsh-Daga/Cairn/commit/e26d455b2bf14394a84d145e42d36a1a459d9da8"
+    },
+    {
+      "date": "2026-05-26",
+      "message": "Merge pull request #22 from Harsh-Daga/refactor/phase-14-transport-consolidation",
+      "system": "Lattice",
+      "url": "https://github.com/Harsh-Daga/Lattice/commit/8bc80f1690d41ac7ad3309b138d403bb12c1f44d"
+    },
+    {
+      "date": "2026-01-01",
+      "message": "chore: remove unnecessary documentation files",
+      "system": "Catalyst",
+      "url": "https://github.com/Harsh-Daga/Catalyst-Detector/commit/ea7b9a98d45ab3631d798d5ec87a6a34e3bde439"
+    },
+    {
+      "date": "2025-12-14",
+      "message": "Merge pull request #6 from Harsh-Daga/doc-update",
+      "system": "IncidentScribe",
+      "url": "https://github.com/Harsh-Daga/Incident-Scribe/commit/874cb81693f554f29e553ccdad26b99586a6f95e"
+    }
+  ],
+  "updated_at": "2026-07-12T14:59:51+00:00"
+}
