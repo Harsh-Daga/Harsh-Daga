@@ -96,16 +96,6 @@ _Change feed is reconciled from public repositories; the last committed state re
 - local-first design
 - narrow responsibility
 
-## Failure model
-
-This profile is designed to remain useful when automation fails.
-
-- Generated SVG unavailable → semantic HTML and Markdown remain readable.
-- GitHub API unavailable → the last generated state remains committed.
-- Medium feed unavailable → the previous writing state remains committed.
-- Scheduled workflow delayed → no visitor-facing dependency is affected.
-- Generator removed → `profile.yaml` remains the source of truth.
-
 ## Operator log — 2026 Q3
 
 - Operating regional telephony infrastructure across AWS, Azure, and GCP.
