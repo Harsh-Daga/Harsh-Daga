@@ -1,0 +1,45 @@
+templates/README.md.j2
+  s_89fc7cd9545062::t_9f869f395a6ee3 1-70
+.profile-state.json
+  s_89fc7cd9545062::t_2059bd935dba7a 2-5,32
+  s_89fc7cd9545062::t_b7c1301c89bc73 6-31
+  s_89fc7cd9545062::t_9f869f395a6ee3 1,33
+README.md
+  s_89fc7cd9545062::t_b7c1301c89bc73 84-87
+  s_89fc7cd9545062::t_2059bd935dba7a 118
+  s_89fc7cd9545062::t_f386059032e731 1-7,11,13,15,17,19,21-27,29,31-38,40,42,44-50,52,54-60,62-69,71-79,82-83,88-114,116,120,122
+templates/dashboard.svg.j2
+  s_89fc7cd9545062::t_acbfba7517fdd1 1
+profile.yaml
+  s_89fc7cd9545062::t_9f869f395a6ee3 1-72
+generate.py
+  s_89fc7cd9545062::t_06be220cfc262a 1-103,109-148,151-198
+  s_89fc7cd9545062::t_acbfba7517fdd1 149-150
+  s_89fc7cd9545062::t_b8839de273c19d 104-108
+assets/control-plane-light.svg
+  s_89fc7cd9545062::t_b7c1301c89bc73 16-18
+  s_89fc7cd9545062::t_f386059032e731 1-15,19
+  s_89fc7cd9545062::t_e537babbaad977 20
+assets/control-plane-dark.svg
+  s_89fc7cd9545062::t_b7c1301c89bc73 16-18
+  s_89fc7cd9545062::t_e537babbaad977 20
+  s_89fc7cd9545062::t_f386059032e731 1-15,19
+.github/workflows/reconcile-profile.yml
+  s_89fc7cd9545062::t_9f869f395a6ee3 1,4-9,11-15,18,23-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "e6116b2c8047e05f03744a1cbfed06172b6a509a",
+  "prompts": {},
+  "sessions": {
+    "s_89fc7cd9545062": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f56cf-9fd6-7341-88b8-09f806fbdc37",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Harsh Daga <hs108699@gmail.com>"
+    }
+  }
+}
