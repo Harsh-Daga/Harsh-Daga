@@ -81,7 +81,7 @@ state        active
 
 ## Recent public changes
 
-- `2026-07-13`  **[Cairn](https://github.com/Harsh-Daga/Cairn/commit/1ac86e512041b760379ea6ba30ae24b17040010b)** — Fix static demo deployment paths
+- `2026-07-14`  **[Cairn](https://github.com/Harsh-Daga/Cairn/commit/c46003facb2305e7bbb84a4292fadb039fbe8ff8)** — Release Cairn 1.1.1 after PyPI filename rejection (#35)
 - `2026-05-26`  **[Lattice](https://github.com/Harsh-Daga/Lattice/commit/8bc80f1690d41ac7ad3309b138d403bb12c1f44d)** — Merge pull request #22 from Harsh-Daga/refactor/phase-14-transport-consolidation
 - `2026-01-01`  **[Catalyst](https://github.com/Harsh-Daga/Catalyst-Detector/commit/ea7b9a98d45ab3631d798d5ec87a6a34e3bde439)** — chore: remove unnecessary documentation files
 - `2025-12-14`  **[IncidentScribe](https://github.com/Harsh-Daga/Incident-Scribe/commit/874cb81693f554f29e553ccdad26b99586a6f95e)** — Merge pull request #6 from Harsh-Daga/doc-update

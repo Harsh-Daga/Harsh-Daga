@@ -5,10 +5,10 @@
   },
   "recent_changes": [
     {
-      "date": "2026-07-13",
-      "message": "Fix static demo deployment paths",
+      "date": "2026-07-14",
+      "message": "Release Cairn 1.1.1 after PyPI filename rejection (#35)",
       "system": "Cairn",
-      "url": "https://github.com/Harsh-Daga/Cairn/commit/1ac86e512041b760379ea6ba30ae24b17040010b"
+      "url": "https://github.com/Harsh-Daga/Cairn/commit/c46003facb2305e7bbb84a4292fadb039fbe8ff8"
     },
     {
       "date": "2026-05-26",
@@ -29,5 +29,5 @@
       "url": "https://github.com/Harsh-Daga/Incident-Scribe/commit/874cb81693f554f29e553ccdad26b99586a6f95e"
     }
   ],
-  "updated_at": "2026-07-14T08:29:51+00:00"
+  "updated_at": "2026-07-15T08:37:55+00:00"
 }
