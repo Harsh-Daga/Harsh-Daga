@@ -105,7 +105,7 @@ _Change feed is reconciled from public repositories; the last committed state re
 
 ## Latest writing
 
-- [Your GPU Is a Kitchen With One Tiny Door](https://medium.com/@harshdaga18/your-gpu-is-a-kitchen-with-one-tiny-door-479cf0b92088?source=rss-b04833cbf645------2)
+- [Your Model Is a RAW Photo. Ship the JPEG.](https://medium.com/@harshdaga18/your-model-is-a-raw-photo-ship-the-jpeg-989fe8679d9e?source=rss-b04833cbf645------2)
 
 ## Contact
 
