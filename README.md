@@ -105,7 +105,7 @@ _Change feed is reconciled from public repositories; the last committed state re
 
 ## Latest writing
 
-- [Why Quantization Makes LLM Inference Faster](https://medium.com/@harshdaga18/your-model-is-a-raw-photo-ship-the-jpeg-989fe8679d9e?source=rss-b04833cbf645------2)
+- [Why Serving 100 Users Is Cheaper Than Serving 1](https://medium.com/@harshdaga18/why-serving-100-users-is-cheaper-than-serving-1-37b51b1dbbdb?source=rss-b04833cbf645------2)
 
 ## Contact
 
