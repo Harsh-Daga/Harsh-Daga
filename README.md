@@ -105,7 +105,7 @@ _Change feed is reconciled from public repositories; the last committed state re
 
 ## Latest writing
 
-- [Why Serving 100 Users Is Cheaper Than Serving 1](https://medium.com/@harshdaga18/why-serving-100-users-is-cheaper-than-serving-1-37b51b1dbbdb?source=rss-b04833cbf645------2)
+- [Why Serving 100 Users Is Cheaper Than Serving 1](https://pub.towardsai.net/why-serving-100-users-is-cheaper-than-serving-1-37b51b1dbbdb?source=rss-b04833cbf645------2)
 
 ## Contact
 
